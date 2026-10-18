@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 ¡Hola! Soy **Sais Gallego** (`@Sais-gallego`)
+# 👋 ¡Hola! Soy **Sergio Andrés Ipuz Saavedra** (`@Sais-gallego`)
 
 ### 💻 Full Stack Developer & DevOps Enthusiast
 
@@ -10,7 +10,7 @@
 
 ---
 
-Apasionado por el desarrollo de aplicaciones web modernas, arquitecturas contenedorizadas, automatización CI/CD y buenas prácticas de ingeniería de software.
+Desarrollador de software enfocado en aplicaciones web modernas Full Stack, arquitecturas contenedorizadas con Docker, automatización CI/CD y buenas prácticas de ingeniería.
 
 </div>
 
@@ -51,16 +51,16 @@ Apasionado por el desarrollo de aplicaciones web modernas, arquitecturas contene
 
 ---
 
-## 🎓 Certificaciones & Cursos (University of Helsinki — MOOC.fi)
+## 🎓 Certificaciones & Cursos
 
-- ✅ **DevOps with Docker** — *Docker Basics, Docker Compose, Security & Image Optimization*
-- ✅ **Full Stack Open: Next.js** — *Server Components, Drizzle ORM, Auth.js, REST APIs & E2E Testing with Playwright*
+- 🏛️ **University of Helsinki (MOOC.fi)** — *DevOps with Docker (Docker Basics, Docker Compose, Security & Optimization)*
+- 🏛️ **University of Helsinki (MOOC.fi)** — *Full Stack Open: Next.js (Server Components, Drizzle ORM, Auth.js & Playwright E2E)*
+- 🎓 **The Open University (OpenLearn)** — *Insignia y Certificación de Participación*
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 Lenguajes y Actividad en GitHub
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Sais-gallego&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Sais-gallego GitHub Stats" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sais-gallego&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
