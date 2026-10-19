@@ -22,17 +22,6 @@ Formación técnica y certificaciones internacionales avaladas por **Harvard Uni
 - **Cloud & DevOps:** Kubernetes, Docker, Helm 3, ArgoCD (GitOps), GitHub Actions (CI/CD), Linux (Debian, Alpine).
 - **Desarrollo Web & Backend:** Next.js 15 (App Router, Server Actions), Node.js, Express, REST APIs, GraphQL, Drizzle ORM, React 19, pruebas E2E con Playwright.
 
----
-
-## 🚀 Proyectos Destacados de Código Abierto
-
-| Proyecto | Descripción Técnica & Arquitectura | Stack Tecnológico | Estado & CI/CD |
-| :--- | :--- | :--- | :---: |
-| 🛡️ [**cybersec-sentinel**](https://github.com/Sais-gallego/cybersec-sentinel) | Toolkit de ciberseguridad y defensa de redes: escáner de puertos asíncrono con *banner grabbing*, auditor de seguridad en cabeceras HTTP (OWASP), evaluador de entropía de contraseñas y clasificador criptográfico de hashes. | `Python 3` `AsyncIO` `Security` `OWASP` | [![CI](https://github.com/Sais-gallego/cybersec-sentinel/actions/workflows/ci.yml/badge.svg)](https://github.com/Sais-gallego/cybersec-sentinel/actions/workflows/ci.yml) |
-| ☸️ [**cloud-native-devops-starter**](https://github.com/Sais-gallego/cloud-native-devops-starter) | Arquitectura de referencia Cloud Native: Dockerfiles multi-etapa reforzados (*non-root*), manifiestos de Kubernetes con Zero-Trust NetworkPolicies, autoscaling HPA, Helm charts y pipeline de validación automatizada. | `Kubernetes` `Docker` `Helm` `CI/CD` | [![CI/CD](https://github.com/Sais-gallego/cloud-native-devops-starter/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/Sais-gallego/cloud-native-devops-starter/actions/workflows/ci-cd.yml) |
-| 📝 [**nextjs-blog**](https://github.com/Sais-gallego/nextjs-blog) | Plataforma web Full Stack de alto rendimiento con Next.js 15 App Router, autenticación segura con Auth.js v5, gestión de datos con Drizzle ORM, PostgreSQL y suite de pruebas E2E en Playwright. | `Next.js 15` `TypeScript` `PostgreSQL` `Playwright` | [![Playwright](https://github.com/Sais-gallego/nextjs-blog/actions/workflows/playwright.yml/badge.svg)](https://github.com/Sais-gallego/nextjs-blog/actions/workflows/playwright.yml) |
-| ☸️ [**devops-with-kubernetes**](https://github.com/Sais-gallego/devops-with-kubernetes) | Plataforma de microservicios contenerizada sobre clústeres Kubernetes: StatefulSets, PersistentVolumes, Ingress TLS, GitOps con ArgoCD, Prometheus, Grafana y Knative. | `Kubernetes` `ArgoCD` `Prometheus` `Docker` | ![Completado](https://img.shields.io/badge/Verificado-100%25-blue?style=flat) |
-| 🚀 [**fullstackopen**](https://github.com/Sais-gallego/fullstackopen) | Soluciones de ingeniería web moderna de la Universidad de Helsinki: React, Node.js, Express, MongoDB, GraphQL, TypeScript, React Native, Contenedores y PostgreSQL. | `React` `Node.js` `GraphQL` `TypeScript` | ![Completado](https://img.shields.io/badge/Verificado-100%25-blue?style=flat) |
 
 ---
 
