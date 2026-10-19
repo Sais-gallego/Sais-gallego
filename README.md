@@ -1,74 +1,137 @@
 <div align="center">
 
-# 👋 ¡Hola! Soy **Sergio Andrés Ipuz Saavedra** (`@Sais-gallego`)
+# 👋 ¡Hola! Soy **Sergio Andrés Ipuz Saavedra**
+### 🛡️ Cybersecurity Analyst • 💻 Full Stack Software Engineer • ☁️ DevOps & Cloud Practitioner
 
-### 💻 Full Stack Developer & DevOps Enthusiast
+[![GitHub Profile Views](https://komarev.com/ghpvc/?username=Sais-gallego&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Sais-gallego)
+[![GitHub Followers](https://img.shields.io/github/followers/Sais-gallego?label=Followers&style=for-the-badge&logo=github&color=181717)](https://github.com/Sais-gallego)
+[![Harvard CS50x](https://img.shields.io/badge/Harvard-CS50x-A51C30?style=for-the-badge&logo=harvard&logoColor=white)](https://github.com/Sais-gallego)
+[![Cisco Certified](https://img.shields.io/badge/Cisco-Cybersecurity%20Analyst-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://github.com/Sais-gallego)
+[![University of Helsinki](https://img.shields.io/badge/Helsinki-Full%20Stack%20Open-002F6C?style=for-the-badge&logo=react&logoColor=white)](https://github.com/Sais-gallego/fullstackopen)
 
-[![GitHub Followers](https://img.shields.io/github/followers/Sais-gallego?label=Follow&style=for-the-badge&logo=github&color=181717)](https://github.com/Sais-gallego)
-[![Full Stack Open](https://img.shields.io/badge/MOOC.fi-Full%20Stack%20Open-000000?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/Sais-gallego/fullstackopen)
-[![DevOps with Kubernetes](https://img.shields.io/badge/MOOC.fi-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/Sais-gallego/devops-with-kubernetes)
-[![DevOps with Docker](https://img.shields.io/badge/MOOC.fi-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/Sais-gallego/sais)
+<br/>
+
+<p align="center">
+  <img src="./assets/openlearn_cybersecurity_badge.png" alt="Open University Cybersecurity Badge" width="130" />
+</p>
 
 ---
 
-Desarrollador de software enfocado en aplicaciones web modernas Full Stack, microservicios, arquitecturas cloud nativas en Kubernetes, orquestación con Docker, automatización CI/CD y análisis de datos en Python.
+Ingeniero de software y analista en ciberseguridad con sólida formación internacional avalada por **Harvard University (CS50x)**, **Cisco Networking Academy**, **The Open University (UK)** y la **Universidad de Helsinki**.  
+Especializado en arquitecturas web seguras y escalables (Next.js, React, Node.js), infraestructura cloud nativa (Kubernetes, Docker, AWS), automatización CI/CD con GitHub Actions, ciberdefensa de redes, hacking ético y análisis de datos en Python.
+
+---
+
+</div>
+
+## 🛡️ Credenciales & Certificaciones Internacionales
+
+<div align="center">
+
+| Institución / Emisor | Certificación / Especialidad | Área | Estado |
+| :--- | :--- | :---: | :---: |
+| 🏛️ **Harvard University** | [**CS50x: Introduction to Computer Science**](https://github.com/Sais-gallego) | Computer Science | [![Verified](https://img.shields.io/badge/Verified-Certificate-success?style=flat-square)](https://github.com/Sais-gallego) |
+| 🌐 **Cisco Networking Academy** | **Carrera Profesional de Analista Junior en Ciberseguridad** | Ciberseguridad | [![Verified](https://img.shields.io/badge/Verified-Career%20Path-1BA0D7?style=flat-square)](https://github.com/Sais-gallego) |
+| 🎓 **The Open University (UK)** | **Introduction to Cyber Security: Stay Safe Online** (Badged Open Course) | Ciberseguridad | [![Verified](https://img.shields.io/badge/Verified-Digital%20Badge-blue?style=flat-square)](https://github.com/Sais-gallego) |
+| 🛡️ **Cisco Networking Academy** | **Hacker Ético (Ethical Hacker)** | Seguridad Ofensiva | [![Verified](https://img.shields.io/badge/Verified-Certificate-success?style=flat-square)](https://github.com/Sais-gallego) |
+| 🛡️ **Cisco Networking Academy** | **Defensa de la Red (Network Defense)** | Seguridad Defensiva | [![Verified](https://img.shields.io/badge/Verified-Certificate-success?style=flat-square)](https://github.com/Sais-gallego) |
+| 🛡️ **Cisco Networking Academy** | **Gestión de Amenazas Cibernéticas (Cyber Threat Management)** | SOC & Threat Intel | [![Verified](https://img.shields.io/badge/Verified-Certificate-success?style=flat-square)](https://github.com/Sais-gallego) |
+| 🛡️ **Cisco Networking Academy** | **Seguridad de Terminales (Endpoint Security)** | Protección Endpoint | [![Verified](https://img.shields.io/badge/Verified-Certificate-success?style=flat-square)](https://github.com/Sais-gallego) |
+| 🛡️ **Cisco Networking Academy** | **Fundamentos de Ciberseguridad & Conciencia Digital** | Seguridad Integral | [![Verified](https://img.shields.io/badge/Verified-Certificate-success?style=flat-square)](https://github.com/Sais-gallego) |
+| 🌐 **Cisco Networking Academy** | **Conceptos Básicos de Redes, Dispositivos y Packet Tracer** | Redes & Infraestructura | [![Verified](https://img.shields.io/badge/Verified-Certificate-success?style=flat-square)](https://github.com/Sais-gallego) |
+| 🎓 **UNAD & Cisco Academy** | **Habilidades en Ciberseguridad (ITP UNAD)** | Ciberseguridad | [![Verified](https://img.shields.io/badge/Verified-Certificate-success?style=flat-square)](https://github.com/Sais-gallego) |
+| 🎓 **Saylor Academy** | [**CS302: Software Engineering**](https://github.com/Sais-gallego) | Software Engineering | [![Verified](https://img.shields.io/badge/Verified-Certificate-success?style=flat-square)](https://github.com/Sais-gallego) |
+| ☁️ **Amazon Web Services (AWS)** | **Fundamentos de AWS Cloud & Serverless** | Cloud Computing | [![Verified](https://img.shields.io/badge/Verified-AWS%20Cloud-FF9900?style=flat-square)](https://github.com/Sais-gallego) |
+| 🤖 **Especialización IA** | **Desarrollo con IA & Prompting Responsable en Negocios** | Inteligencia Artificial | [![Verified](https://img.shields.io/badge/Verified-AI%20Specialist-green?style=flat-square)](https://github.com/Sais-gallego) |
+| 📊 **Cisco Networking Academy** | **Introduction to Data Science** | Ciencia de Datos | [![Verified](https://img.shields.io/badge/Verified-Certificate-success?style=flat-square)](https://github.com/Sais-gallego) |
+| 🏛️ **Universidad de Helsinki** | [**Full Stack Open (Parts 0–13)**](https://github.com/Sais-gallego/fullstackopen) | Full Stack Web | [![Completed](https://img.shields.io/badge/Verified-5%20ECTS-success?style=flat-square)](https://github.com/Sais-gallego/fullstackopen) |
+| 🏛️ **Universidad de Helsinki** | [**DevOps with Kubernetes (Parts 1–5)**](https://github.com/Sais-gallego/devops-with-kubernetes) | Kubernetes & GitOps | [![Completed](https://img.shields.io/badge/Verified-5%20ECTS-success?style=flat-square)](https://github.com/Sais-gallego/devops-with-kubernetes) |
+| 🏛️ **Universidad de Helsinki** | [**DevOps with Docker (Basics, Compose, Security)**](https://github.com/Sais-gallego/sais) | Containers & DevOps | [![Completed](https://img.shields.io/badge/Verified-3%20ECTS-success?style=flat-square)](https://github.com/Sais-gallego/sais) |
+| 🏛️ **Universidad de Helsinki** | [**Next.js Modern Full Stack & Playwright E2E**](https://github.com/Sais-gallego/nextjs-blog) | Next.js & Testing | [![Completed](https://img.shields.io/badge/Verified-Next.js-success?style=flat-square)](https://github.com/Sais-gallego/nextjs-blog) |
+| 🏛️ **Universidad de Helsinki** | **Python Programming (Parts 1–14: 284/284 Exercises)** & **Data Analysis with Python** | Python & Data | [![Completed](https://img.shields.io/badge/Verified-100%25%20TMC-success?style=flat-square)](https://github.com/Sais-gallego) |
+| 🗄️ **SENA Colombia** | **Bases de Datos, Generalidades y Sistemas de Gestión (SGBD)** | Bases de Datos | [![Verified](https://img.shields.io/badge/Verified-Certificate-success?style=flat-square)](https://github.com/Sais-gallego) |
+| 🛠️ **SENA Colombia** | **Soporte Técnico para el Mantenimiento de Equipos de Cómputo** | Hardware & Soporte | [![Verified](https://img.shields.io/badge/Verified-Certificate-success?style=flat-square)](https://github.com/Sais-gallego) |
 
 </div>
 
 ---
 
-## 🛠️ Stack Tecnológico & Herramientas
+## 🛠️ Stack Tecnológico & Especialidades
 
-### Frontend & Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-</p>
+<div align="left">
 
-### DevOps, Cloud, Bases de Datos & Datos
-<p align="left">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
-</p>
+### 🛡️ Ciberseguridad & Infraestructura de Red
+![Cisco](https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Network Defense](https://img.shields.io/badge/Network_Defense-000000?style=for-the-badge&logo=shield&logoColor=white)
+![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-DC3545?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Threat Management](https://img.shields.io/badge/Threat_Management-6f42c1?style=for-the-badge&logo=auth0&logoColor=white)
+![Endpoint Security](https://img.shields.io/badge/Endpoint_Security-28A745?style=for-the-badge&logo=securityscorecard&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 💻 Desarrollo Web & APIs (Frontend & Backend)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ☁️ Cloud, DevOps, Contenedores & Testing
+![AWS](https://img.shields.io/badge/AWS_Cloud-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright_E2E-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+
+### 🗄️ Bases de Datos & Análisis de Datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+</div>
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Proyectos Destacados en Producción & Open Source
 
-| Proyecto | Descripción | Tecnologías | Estado |
+| Proyecto | Arquitectura & Descripción | Stack Tecnológico | Estado & CI/CD |
 | :--- | :--- | :--- | :---: |
-| 🚀 [**fullstackopen**](https://github.com/Sais-gallego/fullstackopen) | Soluciones completas para las Partes 0 a 13 del curso oficial de la Universidad de Helsinki: React, Redux, Express, MongoDB, GraphQL, TypeScript, React Native, CI/CD, Containers y PostgreSQL. | `React` `Node.js` `GraphQL` `TypeScript` `PostgreSQL` | [![Main](https://img.shields.io/badge/status-completed-success)](https://github.com/Sais-gallego/fullstackopen) |
-| ☸️ [**devops-with-kubernetes**](https://github.com/Sais-gallego/devops-with-kubernetes) | Soluciones completas para las Partes 1 a 5: k3d/GKE, Ingress, PersistentVolumes, StatefulSets, Prometheus/Grafana, GitOps con ArgoCD y Serverless con Knative. | `Kubernetes` `k3s` `ArgoCD` `Prometheus` `Docker` | [![Main](https://img.shields.io/badge/status-completed-success)](https://github.com/Sais-gallego/devops-with-kubernetes) |
-| 📦 [**nextjs-blog**](https://github.com/Sais-gallego/nextjs-blog) | Plataforma Full Stack de blogs con autenticación NextAuth v5, Server Actions, Reading Lists, tokens de API Bearer y pruebas End-to-End automatizadas con Playwright. | `Next.js 15` `TypeScript` `Drizzle ORM` `PostgreSQL` `Playwright` | [![Playwright Tests](https://github.com/Sais-gallego/nextjs-blog/actions/workflows/playwright.yml/badge.svg)](https://github.com/Sais-gallego/nextjs-blog/actions/workflows/playwright.yml) |
-| 🐳 [**sais (DevOps with Docker)**](https://github.com/Sais-gallego/sais) | Soluciones completas de contenedorización, orquestación multi-servicio con Docker Compose, Nginx reverse proxy, optimización multi-stage y seguridad rootless (25/25 tests). | `Docker` `Docker Compose` `Nginx` `Go` `PostgreSQL` `Redis` | [![Docker Exercises Tests](https://github.com/Sais-gallego/sais/actions/workflows/tests.yml/badge.svg)](https://github.com/Sais-gallego/sais/actions/workflows/tests.yml) |
+| 🛡️ [**fullstackopen**](https://github.com/Sais-gallego/fullstackopen) | Soluciones de extremo a extremo para las Partes 0 a 13 del curso oficial de la Universidad de Helsinki: React, Node.js, Express, MongoDB, GraphQL, TypeScript, React Native, CI/CD, Contenedores y PostgreSQL. | `React` `Node.js` `GraphQL` `TypeScript` `PostgreSQL` | [![Main](https://img.shields.io/badge/Status-100%25%20Completed-success?style=flat-square)](https://github.com/Sais-gallego/fullstackopen) |
+| ☸️ [**devops-with-kubernetes**](https://github.com/Sais-gallego/devops-with-kubernetes) | Plataforma de microservicios contenerizada sobre Kubernetes (Parts 1–5): clústeres k3d/GKE, StatefulSets, PersistentVolumes, Ingress Controllers, GitOps automatizado con ArgoCD, Prometheus, Grafana y Knative. | `Kubernetes` `k3s` `ArgoCD` `Prometheus` `Docker` | [![Main](https://img.shields.io/badge/Status-100%25%20Completed-success?style=flat-square)](https://github.com/Sais-gallego/devops-with-kubernetes) |
+| 📦 [**nextjs-blog**](https://github.com/Sais-gallego/nextjs-blog) | Aplicación web Full Stack de alto rendimiento construida con Next.js 15 App Router, Server Actions, autenticación con Auth.js v5, gestión con Drizzle ORM, PostgreSQL y suite de pruebas E2E automatizada en GitHub Actions con Playwright. | `Next.js 15` `TypeScript` `Drizzle ORM` `PostgreSQL` `Playwright` | [![Playwright Tests](https://github.com/Sais-gallego/nextjs-blog/actions/workflows/playwright.yml/badge.svg)](https://github.com/Sais-gallego/nextjs-blog/actions/workflows/playwright.yml) |
+| 🐳 [**sais (DevOps with Docker)**](https://github.com/Sais-gallego/sais) | Solución integral de contenedorización multi-contenedor, orquestación con Docker Compose, Nginx reverse proxy con caching, multi-stage builds optimizados para producción y endurecimiento rootless (25/25 tests passing). | `Docker` `Docker Compose` `Nginx` `Go` `PostgreSQL` `Redis` | [![Docker Exercises Tests](https://github.com/Sais-gallego/sais/actions/workflows/tests.yml/badge.svg)](https://github.com/Sais-gallego/sais/actions/workflows/tests.yml) |
 
 ---
 
-## 🎓 Certificaciones & Cursos
-
-- 🏛️ **University of Helsinki (MOOC.fi)** — *Full Stack Open (Parts 0–13: React, Node, GraphQL, TypeScript, React Native, CI/CD, Containers, PostgreSQL)*
-- 🏛️ **University of Helsinki (MOOC.fi)** — *DevOps with Kubernetes (Parts 1–5: Deployments, StatefulSets, GitOps, Monitoring)*
-- 🏛️ **University of Helsinki (MOOC.fi)** — *DevOps with Docker (Docker Basics, Docker Compose, Security & Optimization)*
-- 🏛️ **University of Helsinki (MOOC.fi)** — *Full Stack Open: Next.js (Server Components, Drizzle ORM, Auth.js & Playwright E2E)*
-- 🏛️ **University of Helsinki (MOOC.fi)** — *Python Programming (Parts 1–14: 284/284 Exercises Completed)* & *Data Analysis with Python*
-- 🎓 **The Open University (OpenLearn)** — *Insignia y Certificación de Participación*
-
----
-
-## 📊 Lenguajes y Actividad en GitHub
+## 📊 Métricas de Actividad y Lenguajes
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sais-gallego&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sais-gallego&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estadísticas de GitHub" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sais-gallego&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Lenguajes" />
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sais-gallego&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ **Conectemos en GitHub y colaboremos en proyectos de código abierto y ciberseguridad:**  
+[**@Sais-gallego**](https://github.com/Sais-gallego)
+
 </div>
