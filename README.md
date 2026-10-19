@@ -134,20 +134,20 @@ Especializado en arquitecturas web seguras y escalables (Next.js, React, Node.js
 <div align="center">
 
 <a href="https://github.com/Sais-gallego?tab=achievements">
-  <img src="https://img.shields.io/badge/Achievement-Quickdraw-yellow?style=for-the-badge&logo=github&logoColor=white" alt="Quickdraw" />
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="85" alt="Quickdraw" title="Achievement: Quickdraw (Desbloqueado)" />
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Sais-gallego?tab=achievements">
-  <img src="https://img.shields.io/badge/Achievement-YOLO-orange?style=for-the-badge&logo=github&logoColor=white" alt="YOLO" />
+  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="85" alt="YOLO" title="Achievement: YOLO (Desbloqueado)" />
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Sais-gallego?tab=achievements">
-  <img src="https://img.shields.io/badge/Achievement-Pull%20Shark%20x2-0366d6?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark x2" />
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="85" alt="Pull Shark" title="Achievement: Pull Shark (Indexando PRs de código abierto)" />
 </a>
-<a href="https://github.com/Sais-gallego?tab=achievements">
-  <img src="https://img.shields.io/badge/Achievement-Galaxy%20Brain%20x2-purple?style=for-the-badge&logo=github&logoColor=white" alt="Galaxy Brain x2" />
-</a>
-<a href="https://github.com/Sais-gallego?tab=achievements">
-  <img src="https://img.shields.io/badge/Achievement-Pair%20Extraordinaire-blue?style=for-the-badge&logo=github&logoColor=white" alt="Pair Extraordinaire" />
-</a>
+
+<br/><br/>
+
+[![GitHub Achievements](https://img.shields.io/badge/Ver_Mis_Logros_Oficiales-GitHub_Profile-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sais-gallego?tab=achievements)
 
 </div>
 
