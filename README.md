@@ -5,16 +5,20 @@
 
 <p align="center">
   <a href="https://github.com/Sais-gallego"><img src="https://img.shields.io/badge/Harvard-CS50x-A51C30?style=for-the-badge&logo=harvard&logoColor=white" alt="Harvard CS50x" /></a>
+  <a href="https://github.com/Sais-gallego"><img src="https://img.shields.io/badge/Santander-Open%20Academy-EC0000?style=for-the-badge&logo=santander&logoColor=white" alt="Santander Open Academy" /></a>
   <a href="https://github.com/Sais-gallego"><img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Analyst-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Certified Analyst" /></a>
-  <a href="https://github.com/Sais-gallego/fullstackopen"><img src="https://img.shields.io/badge/Helsinki-Full%20Stack%20Open-002F6C?style=for-the-badge&logo=react&logoColor=white" alt="University of Helsinki Full Stack" /></a>
   <a href="https://github.com/Sais-gallego"><img src="https://img.shields.io/badge/The%20Open%20University-Cybersecurity-005B94?style=for-the-badge&logo=open-access&logoColor=white" alt="The Open University UK" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Sais-gallego"><img src="https://img.shields.io/github/followers/Sais-gallego?label=GitHub%20Followers&style=for-the-badge&logo=github&color=181717" alt="Followers" /></a>
+  <a href="https://github.com/Sais-gallego/fullstackopen"><img src="https://img.shields.io/badge/Helsinki-Full%20Stack%20Open-002F6C?style=for-the-badge&logo=react&logoColor=white" alt="University of Helsinki Full Stack" /></a>
   <a href="https://github.com/Sais-gallego/devops-with-kubernetes"><img src="https://img.shields.io/badge/Kubernetes-Cloud%20Native-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" /></a>
   <a href="https://github.com/Sais-gallego/sais"><img src="https://img.shields.io/badge/Docker-DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
   <a href="https://github.com/Sais-gallego"><img src="https://img.shields.io/badge/AWS-Serverless%20Cloud-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sais-gallego"><img src="https://img.shields.io/github/followers/Sais-gallego?label=GitHub%20Followers&style=for-the-badge&logo=github&color=181717" alt="Followers" /></a>
 </p>
 
 <p align="center">
@@ -23,7 +27,7 @@
 
 ---
 
-Ingeniero de software y analista en ciberseguridad con sólida formación internacional avalada por **Harvard University (CS50x)**, **Cisco Networking Academy**, **The Open University (UK)** y la **Universidad de Helsinki**.  
+Ingeniero de software y analista en ciberseguridad con sólida formación internacional avalada por **Harvard University (CS50x)**, **Banco Santander (Santander Open Academy)**, **Cisco Networking Academy**, **The Open University (UK)** y la **Universidad de Helsinki**.  
 Especializado en arquitecturas web seguras y escalables (Next.js, React, Node.js), infraestructura cloud nativa (Kubernetes, Docker, AWS), automatización CI/CD con GitHub Actions, ciberdefensa de redes, hacking ético y análisis de datos en Python.
 
 ---
@@ -37,19 +41,21 @@ Especializado en arquitecturas web seguras y escalables (Next.js, React, Node.js
 | Institución / Emisor | Certificación / Especialidad | Área | Estado |
 | :--- | :--- | :---: | :---: |
 | 🏛️ **Harvard University** | [**CS50x: Introduction to Computer Science**](https://github.com/Sais-gallego) | Computer Science | [![Verified](https://img.shields.io/badge/Verified-Certificate-success?style=flat-square)](https://github.com/Sais-gallego) |
+| 🔴 **Banco Santander (Open Academy)** | **Fundamentos de Ciberseguridad** | Ciberseguridad | [![Verified](https://img.shields.io/badge/Santander-Verified-EC0000?style=flat-square&logo=santander&logoColor=white)](https://github.com/Sais-gallego) |
+| 🔴 **Banco Santander (Open Academy)** | **Introduction to Data Science** | Ciencia de Datos | [![Verified](https://img.shields.io/badge/Santander-Verified-EC0000?style=flat-square&logo=santander&logoColor=white)](https://github.com/Sais-gallego) |
+| 🔴 **Banco Santander (Open Academy)** | **Prompting Responsable: Maximiza la IA en tu Negocio** | Inteligencia Artificial | [![Verified](https://img.shields.io/badge/Santander-Verified-EC0000?style=flat-square&logo=santander&logoColor=white)](https://github.com/Sais-gallego) |
 | 🌐 **Cisco Networking Academy** | **Carrera Profesional de Analista Junior en Ciberseguridad** | Ciberseguridad | [![Verified](https://img.shields.io/badge/Verified-Career%20Path-1BA0D7?style=flat-square)](https://github.com/Sais-gallego) |
 | 🎓 **The Open University (UK)** | **Introduction to Cyber Security: Stay Safe Online** (Badged Open Course) | Ciberseguridad | [![Verified](https://img.shields.io/badge/Verified-Digital%20Badge-blue?style=flat-square)](https://github.com/Sais-gallego) |
 | 🛡️ **Cisco Networking Academy** | **Hacker Ético (Ethical Hacker)** | Seguridad Ofensiva | [![Verified](https://img.shields.io/badge/Verified-Certificate-success?style=flat-square)](https://github.com/Sais-gallego) |
 | 🛡️ **Cisco Networking Academy** | **Defensa de la Red (Network Defense)** | Seguridad Defensiva | [![Verified](https://img.shields.io/badge/Verified-Certificate-success?style=flat-square)](https://github.com/Sais-gallego) |
 | 🛡️ **Cisco Networking Academy** | **Gestión de Amenazas Cibernéticas (Cyber Threat Management)** | SOC & Threat Intel | [![Verified](https://img.shields.io/badge/Verified-Certificate-success?style=flat-square)](https://github.com/Sais-gallego) |
 | 🛡️ **Cisco Networking Academy** | **Seguridad de Terminales (Endpoint Security)** | Protección Endpoint | [![Verified](https://img.shields.io/badge/Verified-Certificate-success?style=flat-square)](https://github.com/Sais-gallego) |
-| 🛡️ **Cisco Networking Academy** | **Fundamentos de Ciberseguridad & Conciencia Digital** | Seguridad Integral | [![Verified](https://img.shields.io/badge/Verified-Certificate-success?style=flat-square)](https://github.com/Sais-gallego) |
+| 🛡️ **Cisco Networking Academy** | **Conciencia Digital** | Seguridad Integral | [![Verified](https://img.shields.io/badge/Verified-Certificate-success?style=flat-square)](https://github.com/Sais-gallego) |
 | 🌐 **Cisco Networking Academy** | **Conceptos Básicos de Redes, Dispositivos y Packet Tracer** | Redes & Infraestructura | [![Verified](https://img.shields.io/badge/Verified-Certificate-success?style=flat-square)](https://github.com/Sais-gallego) |
 | 🎓 **UNAD & Cisco Academy** | **Habilidades en Ciberseguridad (ITP UNAD)** | Ciberseguridad | [![Verified](https://img.shields.io/badge/Verified-Certificate-success?style=flat-square)](https://github.com/Sais-gallego) |
 | 🎓 **Saylor Academy** | [**CS302: Software Engineering**](https://github.com/Sais-gallego) | Software Engineering | [![Verified](https://img.shields.io/badge/Verified-Certificate-success?style=flat-square)](https://github.com/Sais-gallego) |
 | ☁️ **Amazon Web Services (AWS)** | **Fundamentos de AWS Cloud & Serverless** | Cloud Computing | [![Verified](https://img.shields.io/badge/Verified-AWS%20Cloud-FF9900?style=flat-square)](https://github.com/Sais-gallego) |
-| 🤖 **Especialización IA** | **Desarrollo con IA & Prompting Responsable en Negocios** | Inteligencia Artificial | [![Verified](https://img.shields.io/badge/Verified-AI%20Specialist-green?style=flat-square)](https://github.com/Sais-gallego) |
-| 📊 **Cisco Networking Academy** | **Introduction to Data Science** | Ciencia de Datos | [![Verified](https://img.shields.io/badge/Verified-Certificate-success?style=flat-square)](https://github.com/Sais-gallego) |
+| 🤖 **Especialización IA** | **Desarrollo con IA** | Inteligencia Artificial | [![Verified](https://img.shields.io/badge/Verified-AI%20Specialist-green?style=flat-square)](https://github.com/Sais-gallego) |
 | 🏛️ **Universidad de Helsinki** | [**Full Stack Open (Parts 0–13)**](https://github.com/Sais-gallego/fullstackopen) | Full Stack Web | [![Completed](https://img.shields.io/badge/Verified-5%20ECTS-success?style=flat-square)](https://github.com/Sais-gallego/fullstackopen) |
 | 🏛️ **Universidad de Helsinki** | [**DevOps with Kubernetes (Parts 1–5)**](https://github.com/Sais-gallego/devops-with-kubernetes) | Kubernetes & GitOps | [![Completed](https://img.shields.io/badge/Verified-5%20ECTS-success?style=flat-square)](https://github.com/Sais-gallego/devops-with-kubernetes) |
 | 🏛️ **Universidad de Helsinki** | [**DevOps with Docker (Basics, Compose, Security)**](https://github.com/Sais-gallego/sais) | Containers & DevOps | [![Completed](https://img.shields.io/badge/Verified-3%20ECTS-success?style=flat-square)](https://github.com/Sais-gallego/sais) |
@@ -68,6 +74,7 @@ Especializado en arquitecturas web seguras y escalables (Next.js, React, Node.js
 
 ### 🛡️ Ciberseguridad & Infraestructura de Red
 ![Cisco](https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Santander](https://img.shields.io/badge/Santander_Cybersecurity-EC0000?style=for-the-badge&logo=santander&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Network Defense](https://img.shields.io/badge/Network_Defense-000000?style=for-the-badge&logo=shield&logoColor=white)
 ![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-DC3545?style=for-the-badge&logo=hackthebox&logoColor=white)
