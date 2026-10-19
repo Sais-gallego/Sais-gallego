@@ -127,6 +127,30 @@ Especializado en arquitecturas web seguras y escalables (Next.js, React, Node.js
 
 ---
 
+## 🏆 Logros Oficiales en GitHub (GitHub Achievements)
+
+<div align="center">
+
+<a href="https://github.com/Sais-gallego?tab=achievements">
+  <img src="https://img.shields.io/badge/Achievement-Quickdraw-yellow?style=for-the-badge&logo=github&logoColor=white" alt="Quickdraw" />
+</a>
+<a href="https://github.com/Sais-gallego?tab=achievements">
+  <img src="https://img.shields.io/badge/Achievement-YOLO-orange?style=for-the-badge&logo=github&logoColor=white" alt="YOLO" />
+</a>
+<a href="https://github.com/Sais-gallego?tab=achievements">
+  <img src="https://img.shields.io/badge/Achievement-Pull%20Shark-0366d6?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark" />
+</a>
+<a href="https://github.com/Sais-gallego?tab=achievements">
+  <img src="https://img.shields.io/badge/Achievement-Galaxy%20Brain-purple?style=for-the-badge&logo=github&logoColor=white" alt="Galaxy Brain" />
+</a>
+<a href="https://github.com/Sais-gallego?tab=achievements">
+  <img src="https://img.shields.io/badge/Achievement-Pair%20Extraordinaire-blue?style=for-the-badge&logo=github&logoColor=white" alt="Pair Extraordinaire" />
+</a>
+
+</div>
+
+---
+
 ## 📊 Métricas de Actividad y Lenguajes
 
 <div align="center">
