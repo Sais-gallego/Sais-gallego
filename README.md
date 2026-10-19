@@ -1,18 +1,24 @@
 <div align="center">
 
 # 👋 ¡Hola! Soy **Sergio Andrés Ipuz Saavedra**
-### 🛡️ Cybersecurity Analyst • 💻 Full Stack Software Engineer • ☁️ DevOps & Cloud Practitioner
-
-[![GitHub Profile Views](https://komarev.com/ghpvc/?username=Sais-gallego&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Sais-gallego)
-[![GitHub Followers](https://img.shields.io/github/followers/Sais-gallego?label=Followers&style=for-the-badge&logo=github&color=181717)](https://github.com/Sais-gallego)
-[![Harvard CS50x](https://img.shields.io/badge/Harvard-CS50x-A51C30?style=for-the-badge&logo=harvard&logoColor=white)](https://github.com/Sais-gallego)
-[![Cisco Certified](https://img.shields.io/badge/Cisco-Cybersecurity%20Analyst-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://github.com/Sais-gallego)
-[![University of Helsinki](https://img.shields.io/badge/Helsinki-Full%20Stack%20Open-002F6C?style=for-the-badge&logo=react&logoColor=white)](https://github.com/Sais-gallego/fullstackopen)
-
-<br/>
+### 🛡️ Cybersecurity Analyst • 💻 Full Stack Software Engineer • ☁️ DevOps & Cloud Specialist
 
 <p align="center">
-  <img src="./assets/openlearn_cybersecurity_badge.png" alt="Open University Cybersecurity Badge" width="130" />
+  <a href="https://github.com/Sais-gallego"><img src="https://img.shields.io/badge/Harvard-CS50x-A51C30?style=for-the-badge&logo=harvard&logoColor=white" alt="Harvard CS50x" /></a>
+  <a href="https://github.com/Sais-gallego"><img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Analyst-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Certified Analyst" /></a>
+  <a href="https://github.com/Sais-gallego/fullstackopen"><img src="https://img.shields.io/badge/Helsinki-Full%20Stack%20Open-002F6C?style=for-the-badge&logo=react&logoColor=white" alt="University of Helsinki Full Stack" /></a>
+  <a href="https://github.com/Sais-gallego"><img src="https://img.shields.io/badge/The%20Open%20University-Cybersecurity-005B94?style=for-the-badge&logo=open-access&logoColor=white" alt="The Open University UK" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sais-gallego"><img src="https://img.shields.io/github/followers/Sais-gallego?label=GitHub%20Followers&style=for-the-badge&logo=github&color=181717" alt="Followers" /></a>
+  <a href="https://github.com/Sais-gallego/devops-with-kubernetes"><img src="https://img.shields.io/badge/Kubernetes-Cloud%20Native-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" /></a>
+  <a href="https://github.com/Sais-gallego/sais"><img src="https://img.shields.io/badge/Docker-DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
+  <a href="https://github.com/Sais-gallego"><img src="https://img.shields.io/badge/AWS-Serverless%20Cloud-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud" /></a>
+</p>
+
+<p align="center">
+  <img src="./assets/openlearn_cybersecurity_badge.png" alt="Open University Cybersecurity Digital Badge" width="115" />
 </p>
 
 ---
