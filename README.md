@@ -47,8 +47,4 @@ Formación técnica y certificaciones internacionales avaladas por **Harvard Uni
 
 ---
 
-## 📬 Contacto Profesional
 
-- **Correo electrónico:** [g46113026@gmail.com](mailto:g46113026@gmail.com)
-- **Perfil de GitHub:** [@Sais-gallego](https://github.com/Sais-gallego)
-- **Disponibilidad:** Proyectos de Ciberseguridad, DevOps, Infraestructura Cloud y Desarrollo de Software Full Stack.
