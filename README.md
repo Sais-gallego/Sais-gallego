@@ -1,4 +1,4 @@
-# Sergio Andrés Ipuz Saavedra
+
 ### Ingeniero de Software | Especialista en Ciberseguridad & Arquitectura Cloud
 
 [![Email](https://img.shields.io/badge/Email-g46113026%40gmail.com-0078D4?style=flat&logo=gmail&logoColor=white)](mailto:g46113026@gmail.com)
