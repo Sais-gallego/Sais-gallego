@@ -138,10 +138,10 @@ Especializado en arquitecturas web seguras y escalables (Next.js, React, Node.js
   <img src="https://img.shields.io/badge/Achievement-YOLO-orange?style=for-the-badge&logo=github&logoColor=white" alt="YOLO" />
 </a>
 <a href="https://github.com/Sais-gallego?tab=achievements">
-  <img src="https://img.shields.io/badge/Achievement-Pull%20Shark-0366d6?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark" />
+  <img src="https://img.shields.io/badge/Achievement-Pull%20Shark%20x2-0366d6?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark x2" />
 </a>
 <a href="https://github.com/Sais-gallego?tab=achievements">
-  <img src="https://img.shields.io/badge/Achievement-Galaxy%20Brain-purple?style=for-the-badge&logo=github&logoColor=white" alt="Galaxy Brain" />
+  <img src="https://img.shields.io/badge/Achievement-Galaxy%20Brain%20x2-purple?style=for-the-badge&logo=github&logoColor=white" alt="Galaxy Brain x2" />
 </a>
 <a href="https://github.com/Sais-gallego?tab=achievements">
   <img src="https://img.shields.io/badge/Achievement-Pair%20Extraordinaire-blue?style=for-the-badge&logo=github&logoColor=white" alt="Pair Extraordinaire" />
