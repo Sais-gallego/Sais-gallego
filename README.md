@@ -24,16 +24,24 @@
 
 ---
 
-## 🏆 GitHub Achievements & Badges
+## 🏆 GitHub Achievements & Badges Oficiales
 
 <div align="center">
 
-| Logro | Nivel | Descripción |
-| :---: | :---: | :--- |
-| <img src="https://github.githubassets.com/assets/pull-shark-bronze-a37accb528d1.png" width="48" alt="Pull Shark" /> | **Pull Shark** | Contribuciones activas y fusiones de Pull Requests en proyectos open source. |
-| <img src="https://github.githubassets.com/assets/pair-extraordinaire-bronze-797214f41e7e.png" width="48" alt="Pair Extraordinaire" /> | **Pair Extraordinaire** | Commits y desarrollo colaborativo en equipo. |
-| <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="48" alt="Quickdraw" /> | **Quickdraw** | Respuesta ágil y resolución inmediata de issues / PRs. |
-| <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="48" alt="YOLO" /> | **YOLO** | Despliegues audaces de código. |
+| Insignia Oficial | Logro | Nivel Alcanzado | Requisito Oficial de GitHub | Estado |
+| :---: | :---: | :---: | :--- | :---: |
+| <a href="https://github.com/Sais-gallego?tab=achievements"><img src="https://github.githubassets.com/assets/pull-shark-bronze-a37accb528d1.png" width="55" alt="Pull Shark" /></a> | **Pull Shark** | **Bronce (x2)** | Fusionar Pull Requests en repositorios públicos. | **Desbloqueado ✅** |
+| <a href="https://github.com/Sais-gallego?tab=achievements"><img src="https://github.githubassets.com/assets/pair-extraordinaire-bronze-797214f41e7e.png" width="55" alt="Pair Extraordinaire" /></a> | **Pair Extraordinaire** | **Bronce (x2)** | Realizar commits colaborativos con coautoría. | **Desbloqueado ✅** |
+| <a href="https://github.com/Sais-gallego?tab=achievements"><img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="55" alt="Quickdraw" /></a> | **Quickdraw** | **Insignia Base** | Cerrar un issue o Pull Request dentro de los primeros 5 minutos. | **Desbloqueado ✅** |
+| <a href="https://github.com/Sais-gallego?tab=achievements"><img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="55" alt="YOLO" /></a> | **YOLO** | **Insignia Especial** | Despliegues y fusiones directas de código. | **Desbloqueado ✅** |
+| <a href="https://github.com/Sais-gallego?tab=achievements"><img src="https://github.githubassets.com/assets/galaxy-brain-default-647774431e67.png" width="55" alt="Galaxy Brain" /></a> | **Galaxy Brain** | *En Progreso* | Responder en debates (Discussions) y obtener respuestas aceptadas. | 🔄 **Activo** |
+| <a href="https://github.com/Sais-gallego?tab=achievements"><img src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" width="55" alt="Starstruck" /></a> | **Starstruck** | *En Progreso* | Alcanzar 16 estrellas (⭐) en tus repositorios de código abierto. | 🔄 **Activo** |
+
+<p align="center">
+  <a href="https://github.com/Sais-gallego?tab=achievements">
+    <img src="https://img.shields.io/badge/Ver_Mis_Logros_Oficiales_en_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Logros" />
+  </a>
+</p>
 
 </div>
 
@@ -49,6 +57,7 @@
 | 🗄️ **[harvard-cs50-sql](https://github.com/Sais-gallego/harvard-cs50-sql)** | Diseño de esquemas en 3FN, transacciones ACID, vistas, índices B-Tree, y consultas jerárquicas con CTEs recursivas. | `SQL` `SQLite` `PostgreSQL` |
 | 🤖 **[harvard-cs50-ai-web](https://github.com/Sais-gallego/harvard-cs50-ai-web)** | Inferencia lógica (TT-Entails), cadenas de Markov (PageRank), satisfacción de restricciones (AC-3) y algoritmos Minimax. | `Python` `AI` `Search` |
 | 📺 **[cleanyourtv (Open Source Contributor)](https://github.com/Gathin23/cleanyourtv)** | Autor de la guía y traducción completa al español (`README.es.md`) para el proyecto internacional de optimización de Android TV y Google TV. | `Shell` `Markdown` `Android` |
+| 🌐 **[trabajo_so (Web Portfolio)](https://github.com/Sais-gallego/trabajo_so)** | Portafolio comercial de plataformas web y landing pages para sectores de salud, gastronomía, veterinaria y ferreterías en Colombia. | `HTML5` `CSS3` `JavaScript` |
 
 </div>
 
